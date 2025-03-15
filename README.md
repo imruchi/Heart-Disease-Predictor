@@ -19,7 +19,7 @@ The dataset used for this project includes features such as:
 - Thalassemia
 
 ## Requirements
-To run this project you can install the necessary dependencies using:
+To run this project, install the necessary dependencies using:
 
 ```bash
 pip install -r requirements.txt
