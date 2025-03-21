@@ -10,7 +10,7 @@ The dataset used for this project includes features such as:
 - Chest pain type
 - Blood pressure
 - Cholesterol levels
-- Fasting blood sugar
+- Fasting blood sugar levels
 - Resting electrocardiographic results
 - Maximum heart rate achieved
 - Exercise-induced angina
